@@ -44,7 +44,7 @@ namespace Lab2
                 if (UserChoice == "N" || UserChoice == "No" || UserChoice == "n" || UserChoice == "no")
                 {
                     Continue = false;
-                    Console.WriteLine("Goodbye! See you real soon!");
+                    Console.WriteLine("Goodbye! See you real soon! Adios! Sayonara!");
                 }
 
 
